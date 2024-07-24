@@ -1,0 +1,103 @@
+# ninja log v6
+16	59	7435081587210235	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+16	59	7435081587210235	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+24	142	7435081588027704	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+24	142	7435081588027704	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+142	212	7435081588706137	.rcc/qmlcache/apphelloWorldQtQml_qmlcache_loader.cpp	389df086787c2e56
+142	212	7435081588706137	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_qmlcache_loader.cpp	389df086787c2e56
+212	691	7435081592728906	apphelloWorldQtQml_autogen/timestamp	4a1e99211bec75e9
+212	691	7435081592728906	apphelloWorldQtQml_autogen/mocs_compilation.cpp	4a1e99211bec75e9
+212	691	7435081592728906	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/apphelloWorldQtQml_autogen/timestamp	4a1e99211bec75e9
+212	691	7435081592728906	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/apphelloWorldQtQml_autogen/mocs_compilation.cpp	4a1e99211bec75e9
+704	769	7435081594294418	.rcc/qrc_qmake_helloWorldQtQml.cpp	967067327632474c
+704	769	7435081594294418	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_qmake_helloWorldQtQml.cpp	967067327632474c
+712	769	7435081594294418	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+712	769	7435081594294418	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+697	814	7435081594774896	meta_types/apphelloWorldQtQml_json_file_list.txt	657a1108a565d04e
+697	814	7435081594774896	meta_types/apphelloWorldQtQml_json_file_list.txt.timestamp	657a1108a565d04e
+697	814	7435081594774896	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/meta_types/apphelloWorldQtQml_json_file_list.txt	657a1108a565d04e
+697	814	7435081594774896	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/meta_types/apphelloWorldQtQml_json_file_list.txt.timestamp	657a1108a565d04e
+815	866	7435081595286780	meta_types/qt6apphelloworldqtqml_debug_metatypes.json.gen	43a3eea5770f8748
+815	866	7435081595286780	meta_types/qt6apphelloworldqtqml_debug_metatypes.json	43a3eea5770f8748
+815	866	7435081595286780	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/meta_types/qt6apphelloworldqtqml_debug_metatypes.json.gen	43a3eea5770f8748
+815	866	7435081595286780	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/meta_types/qt6apphelloworldqtqml_debug_metatypes.json	43a3eea5770f8748
+866	1002	7435081596165403	apphelloworldqtqml_qmltyperegistrations.cpp	c8f9572ebae3df90
+866	1002	7435081596165403	helloWorldQtQml/apphelloWorldQtQml.qmltypes	c8f9572ebae3df90
+866	1002	7435081596165403	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/apphelloworldqtqml_qmltyperegistrations.cpp	c8f9572ebae3df90
+866	1002	7435081596165403	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/apphelloWorldQtQml.qmltypes	c8f9572ebae3df90
+1003	1141	7435081597955307	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+1003	1141	7435081597955307	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+1156	1286	7435081598235098	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_qmake_helloWorldQtQml.cpp.obj	f72aacd206fa40ba
+1178	1298	7435081598444003	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+1141	1305	7435081598084956	CMakeFiles/apphelloWorldQtQml.dir/apphelloWorldQtQml_autogen/mocs_compilation.cpp.obj	64ee412308ace242
+1151	3478	7435081598174717	CMakeFiles/apphelloWorldQtQml.dir/apphelloworldqtqml_qmltyperegistrations.cpp.obj	1da7f5fcb44f51e2
+1145	3773	7435081598124870	CMakeFiles/apphelloWorldQtQml.dir/main.cpp.obj	9cdc2cb79e407cdc
+1170	3930	7435081598375562	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+1161	4140	7435081598284426	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_qmlcache_loader.cpp.obj	68cae6170e0f5063
+4140	4425	7435081628074653	apphelloWorldQtQml.exe	c47aacc7aafb6f2c
+25	64	7435089647725391	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+25	64	7435089647725391	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+33	116	7435089648250265	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+33	116	7435089648250265	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+123	160	7435089648693810	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+123	160	7435089648693810	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+116	240	7435089649332560	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+116	240	7435089649332560	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+245	297	7435089649589078	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+240	2051	7435089649548838	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+2051	2268	7435089667644949	apphelloWorldQtQml.exe	c47aacc7aafb6f2c
+38	80	7435090592532871	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+38	80	7435090592532871	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+46	135	7435090593074105	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+46	135	7435090593074105	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+142	183	7435090593572935	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+142	183	7435090593572935	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+135	273	7435090594211882	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+135	273	7435090594211882	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+280	347	7435090594586156	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+273	2131	7435090594521194	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+2131	2347	7435090613104822	apphelloWorldQtQml.exe	c47aacc7aafb6f2c
+39	88	7435090924963544	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+39	88	7435090924963544	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+46	146	7435090925542795	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+46	146	7435090925542795	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+155	207	7435090926146027	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+155	207	7435090926146027	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+146	287	7435090926874351	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+146	287	7435090926874351	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+292	358	7435090927056181	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+288	2461	7435090927015234	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+2461	2707	7435090948752344	apphelloWorldQtQml.exe	c47aacc7aafb6f2c
+38	88	7435091803586146	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+38	88	7435091803586146	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+47	138	7435091804089870	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+47	138	7435091804089870	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+145	182	7435091804541842	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+145	182	7435091804541842	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+138	252	7435091805150216	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+138	252	7435091805150216	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+256	310	7435091805322729	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+252	2117	7435091805282845	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+2117	2329	7435091823931070	apphelloWorldQtQml.exe	c47aacc7aafb6f2c
+36	82	7435092810413718	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+36	82	7435092810413718	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+45	144	7435092810963704	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+45	144	7435092810963704	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+150	192	7435092811515379	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+150	192	7435092811515379	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+144	260	7435092812133236	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+144	260	7435092812133236	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+264	320	7435092812287555	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+260	2377	7435092812246865	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+2377	2613	7435092833421427	apphelloWorldQtQml.exe	c47aacc7aafb6f2c
+36	78	7435093153012001	helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+36	78	7435093153012001	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/helloWorldQtQml/Main.qml	37e4068fd7fb36f0
+43	129	7435093153542409	.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+43	129	7435093153542409	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apphelloWorldQtQml.cmake	24e3f0fa050c21e0
+137	177	7435093154011154	.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+137	177	7435093154011154	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp	7786af77a20d3bd5
+129	248	7435093154634195	.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+129	248	7435093154634195	C:/Warehouse/Samsung Mission/QtFramework/helloWorldQtQml/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp	a1237e42c970ff4b
+252	308	7435093154804057	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qrc_apphelloWorldQtQml_raw_qml_0.cpp.obj	fd79b1b94271ad90
+248	2377	7435093154773676	CMakeFiles/apphelloWorldQtQml.dir/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmlcache/apphelloWorldQtQml_Main_qml.cpp.obj	a546886104511d4b
+2377	2627	7435093176061902	apphelloWorldQtQml.exe	c47aacc7aafb6f2c

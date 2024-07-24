@@ -1,0 +1,5 @@
+module helloWorldQtQml
+typeinfo apphelloWorldQtQml.qmltypes
+prefer :/helloWorldQtQml/
+Main 1.0 Main.qml
+
