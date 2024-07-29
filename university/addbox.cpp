@@ -21,5 +21,10 @@ void addBox::getVal()
     QString subject = ui->lineEdit_3->text();
 
     emit enterInfo(rollNo, name, subject);
+
+    // Reset QLineEdit fields to empty strings
+    ui->lineEdit->setText("");
+    ui->lineEdit_2->setText("");
+    ui->lineEdit_3->setText("");
 }
 

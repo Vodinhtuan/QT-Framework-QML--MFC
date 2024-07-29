@@ -20,5 +20,7 @@ void findBox::searchStd()
     QString stdRollNo = ui->lineEdit->text();
 
     emit onSearch(stdRollNo);
+
+    ui->lineEdit->setText("");
 }
 

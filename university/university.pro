@@ -1,4 +1,5 @@
 QT       += core gui
+QT       += sql
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -10,6 +11,7 @@ CONFIG += c++17
 
 SOURCES += \
     addbox.cpp \
+    databasehelper.cpp \
     findbox.cpp \
     main.cpp \
     mainwindow.cpp \
@@ -17,6 +19,7 @@ SOURCES += \
 
 HEADERS += \
     addbox.h \
+    databasehelper.h \
     findbox.h \
     mainwindow.h \
     updatebox.h

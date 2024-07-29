@@ -5,6 +5,7 @@
 #include "addbox.h"
 #include "findbox.h"
 #include "updatebox.h"
+#include "databasehelper.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -33,5 +34,6 @@ private:
     addBox *addbox;
     findBox *findbox;
     updateBox *updatebox;
+    DatabaseHelper *dbHelper;
 };
 #endif // MAINWINDOW_H

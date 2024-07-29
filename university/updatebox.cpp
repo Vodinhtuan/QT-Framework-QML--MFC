@@ -20,5 +20,8 @@ void updateBox::updateSub()
     QString sub = ui->lineEdit_2->text();
 
     emit newSub(rollNo, sub);
+
+    ui->lineEdit->setText("");
+    ui->lineEdit_2->setText("");
 }
 
