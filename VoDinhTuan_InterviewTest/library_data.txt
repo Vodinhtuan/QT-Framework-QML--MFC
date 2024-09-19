@@ -1,0 +1,7 @@
+Books
+B001,Thu Cho Em,Hoang Nam Tien,Love,2024,1
+B002,Di Tim Le Song,Frankl,Life,1946,1
+B003,O Alquimista,Paulo Coelho,Classic,1988,1
+Users
+U001,Tim Vo,timvo@gmail.com,123456789,B001,B002
+U002,Klie Phan,kliephan@gmail.com,987654321,B003
